@@ -1,7 +1,5 @@
 # DSbootcamp_test
-Data science bootcamp with DataRockie
-
-learn 10 sprints during 4 month program.
+Data science bootcamp with DataRockie, including :
 
 <li>
 Spreadsheets
