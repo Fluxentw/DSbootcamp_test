@@ -13,6 +13,6 @@ including:
 * [x] Intro to Python
 * [x] Essential Python for Data Analyst
 * [x] Dashboard
-## Mini projects
+## Side projects
 * [x] Intro to Web Scraping
 
